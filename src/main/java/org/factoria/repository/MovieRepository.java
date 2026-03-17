@@ -1,4 +1,4 @@
-package org.example.repository;
+package org.factoria.repository;
 
 public interface MovieRepository {
 }
