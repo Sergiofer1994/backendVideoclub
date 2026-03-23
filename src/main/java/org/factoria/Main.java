@@ -12,5 +12,6 @@ public class Main {
         MovieView movieView = new MovieView(movieController);
 
         movieView.generateMovie();
+        movieView.showMovies();
     }
 }
